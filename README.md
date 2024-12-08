@@ -1,16 +1,25 @@
-## Hi there 👋
+# 💫 About Me
 
-<!--
-**Auniey12/Auniey12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there! 👋 I'm Wan Auni Aisyah bt Wan Zainuddin  
+🎓 Third-year Bachelor of Information Technology with Business Management student at UC TATI.  
+✨ Aspiring developer with a passion for creating impactful solutions and user-friendly designs.  
+🌟 A fun-loving girl who enjoys creating moments and embracing the beauty of life.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Skills  
+- **Programming**: Python, JavaScript, PHP  
+- **Web Development**: HTML, CSS, Adobe Dreamweaver, Bootstrap  
+- **Mobile Development**: Flutter  
+- **Database Management**: MySQL, Firebase  
+- **Tools**: Git, VS Code, Figma , VMWware
+
+---
+
+## 🌱 What I'm Currently Learning  
+- Client-Server Computing in Mobile Environments  
+- Business Law: Contract Law Principles  
+
+
+
+⭐ *“Turning ideas into reality, one line of code at a time.”*  
